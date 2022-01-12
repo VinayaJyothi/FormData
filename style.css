@@ -1,0 +1,17 @@
+body {
+    background-image: url('https://ak.picdn.net/shutterstock/videos/2963281/thumb/1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h2 {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.alert {
+    background-color: transparent;
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: none;
+}
